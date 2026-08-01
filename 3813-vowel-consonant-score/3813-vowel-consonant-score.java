@@ -1,0 +1,20 @@
+class Solution {
+    public int vowelConsonantScore(String s) {
+       int v=0;
+       int c=0;
+       for(int i=0;i<s.length();i++)
+       {
+        char ch=s.charAt(i);
+        if("aeiou".indexOf(ch)!=-1)
+        {
+            v++;
+        }
+        if("bcdfghjklmnpqrstvwxyz".indexOf(ch)!=-1)
+        {
+            c++;
+        }
+       } 
+       if(c==0||v==0) return 0;
+       return (int)Math.floor(v/c);
+    }
+}
