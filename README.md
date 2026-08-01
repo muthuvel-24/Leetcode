@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/muthuvel-24/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/muthuvel-24/Leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muthuvel-24/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2032-two-out-of-three](https://github.com/muthuvel-24/Leetcode/tree/master/2032-two-out-of-three) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muthuvel-24/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/muthuvel-24/Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/muthuvel-24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/muthuvel-24/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muthuvel-24/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2032-two-out-of-three](https://github.com/muthuvel-24/Leetcode/tree/master/2032-two-out-of-three) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muthuvel-24/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2404-most-frequent-even-element](https://github.com/muthuvel-24/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/muthuvel-24/Leetcode/tree/master/2540-minimum-common-value) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/muthuvel-24/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2032-two-out-of-three](https://github.com/muthuvel-24/Leetcode/tree/master/2032-two-out-of-three) |
 <!---LeetCode Topics End-->
