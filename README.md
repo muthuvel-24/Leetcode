@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/muthuvel-24/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/muthuvel-24/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muthuvel-24/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/muthuvel-24/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muthuvel-24/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/muthuvel-24/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/muthuvel-24/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/muthuvel-24/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2843-count-symmetric-integers](https://github.com/muthuvel-24/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3227-vowels-game-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/muthuvel-24/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muthuvel-24/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3360-stone-removal-game](https://github.com/muthuvel-24/Leetcode/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/muthuvel-24/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
