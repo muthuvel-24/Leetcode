@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/muthuvel-24/Leetcode/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/muthuvel-24/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muthuvel-24/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/muthuvel-24/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/muthuvel-24/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/muthuvel-24/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
