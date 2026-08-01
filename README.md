@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-two-out-of-three](https://github.com/muthuvel-24/Leetcode/tree/master/2032-two-out-of-three) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/muthuvel-24/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Database
 |  |
 | ------- |
