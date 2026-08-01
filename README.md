@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muthuvel-24/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/muthuvel-24/Leetcode/tree/master/2032-two-out-of-three) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muthuvel-24/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/muthuvel-24/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/muthuvel-24/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/muthuvel-24/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/muthuvel-24/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muthuvel-24/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/muthuvel-24/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/muthuvel-24/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2733-neither-minimum-nor-maximum](https://github.com/muthuvel-24/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
