@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/muthuvel-24/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/muthuvel-24/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3941-password-strength](https://github.com/muthuvel-24/Leetcode/tree/master/3941-password-strength) |
+| [3945-digit-frequency-score](https://github.com/muthuvel-24/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/muthuvel-24/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/muthuvel-24/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/muthuvel-24/Leetcode/tree/master/3894-traffic-signal-color) |
+| [3945-digit-frequency-score](https://github.com/muthuvel-24/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Brainteaser
 |  |
 | ------- |
