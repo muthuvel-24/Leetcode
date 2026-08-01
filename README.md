@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/muthuvel-24/Leetcode/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/muthuvel-24/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/muthuvel-24/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2733-neither-minimum-nor-maximum](https://github.com/muthuvel-24/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muthuvel-24/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/muthuvel-24/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/muthuvel-24/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/muthuvel-24/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muthuvel-24/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/muthuvel-24/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2733-neither-minimum-nor-maximum](https://github.com/muthuvel-24/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muthuvel-24/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/muthuvel-24/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
