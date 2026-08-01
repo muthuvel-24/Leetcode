@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/muthuvel-24/Leetcode/tree/master/0819-most-common-word) |
 | [1446-consecutive-characters](https://github.com/muthuvel-24/Leetcode/tree/master/1446-consecutive-characters) |
 | [1668-maximum-repeating-substring](https://github.com/muthuvel-24/Leetcode/tree/master/1668-maximum-repeating-substring) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/muthuvel-24/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/muthuvel-24/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2390-removing-stars-from-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
