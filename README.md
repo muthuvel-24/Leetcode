@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/muthuvel-24/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2404-most-frequent-even-element](https://github.com/muthuvel-24/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/muthuvel-24/Leetcode/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/muthuvel-24/Leetcode/tree/master/2540-minimum-common-value) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/muthuvel-24/Leetcode/tree/master/2032-two-out-of-three) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muthuvel-24/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2404-most-frequent-even-element](https://github.com/muthuvel-24/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/muthuvel-24/Leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/muthuvel-24/Leetcode/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/muthuvel-24/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2965-find-missing-and-repeated-values](https://github.com/muthuvel-24/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/muthuvel-24/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2278-percentage-of-letter-in-string](https://github.com/muthuvel-24/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/muthuvel-24/Leetcode/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2788-split-strings-by-separator](https://github.com/muthuvel-24/Leetcode/tree/master/2788-split-strings-by-separator) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/muthuvel-24/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muthuvel-24/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/muthuvel-24/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2418-sort-the-people](https://github.com/muthuvel-24/Leetcode/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/muthuvel-24/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2733-neither-minimum-nor-maximum](https://github.com/muthuvel-24/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2785-sort-vowels-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
