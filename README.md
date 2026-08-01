@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/muthuvel-24/Leetcode/tree/master/0819-most-common-word) |
 | [0930-binary-subarrays-with-sum](https://github.com/muthuvel-24/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/muthuvel-24/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/muthuvel-24/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muthuvel-24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/muthuvel-24/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/muthuvel-24/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/muthuvel-24/Leetcode/tree/master/0441-arranging-coins) |
+| [0989-add-to-array-form-of-integer](https://github.com/muthuvel-24/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muthuvel-24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/muthuvel-24/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
