@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/muthuvel-24/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/muthuvel-24/Leetcode/tree/master/2540-minimum-common-value) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/muthuvel-24/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/muthuvel-24/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muthuvel-24/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/muthuvel-24/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/muthuvel-24/Leetcode/tree/master/0414-third-maximum-number) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/muthuvel-24/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2785-sort-vowels-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muthuvel-24/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/muthuvel-24/Leetcode/tree/master/1791-find-center-of-star-graph) |
+## Matrix
+|  |
+| ------- |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/muthuvel-24/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
