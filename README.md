@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/muthuvel-24/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2278-percentage-of-letter-in-string](https://github.com/muthuvel-24/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2788-split-strings-by-separator](https://github.com/muthuvel-24/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/muthuvel-24/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
