@@ -150,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/muthuvel-24/Leetcode/tree/master/1668-maximum-repeating-substring) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/muthuvel-24/Leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
