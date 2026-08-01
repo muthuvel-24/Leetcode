@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/muthuvel-24/Leetcode/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/muthuvel-24/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muthuvel-24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/muthuvel-24/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/muthuvel-24/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/muthuvel-24/Leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muthuvel-24/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/muthuvel-24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/muthuvel-24/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Recursion
 |  |
 | ------- |
