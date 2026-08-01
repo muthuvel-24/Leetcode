@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/muthuvel-24/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/muthuvel-24/Leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/muthuvel-24/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/muthuvel-24/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/muthuvel-24/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/muthuvel-24/Leetcode/tree/master/0610-triangle-judgement) |
 | [1527-patients-with-a-condition](https://github.com/muthuvel-24/Leetcode/tree/master/1527-patients-with-a-condition) |
