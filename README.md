@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/muthuvel-24/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/muthuvel-24/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muthuvel-24/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/muthuvel-24/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/muthuvel-24/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/muthuvel-24/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/muthuvel-24/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/muthuvel-24/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3227-vowels-game-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3360-stone-removal-game](https://github.com/muthuvel-24/Leetcode/tree/master/3360-stone-removal-game) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/muthuvel-24/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/muthuvel-24/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/muthuvel-24/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/muthuvel-24/Leetcode/tree/master/3894-traffic-signal-color) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/muthuvel-24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/muthuvel-24/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/muthuvel-24/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
 | ------- |
