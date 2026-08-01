@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/muthuvel-24/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/muthuvel-24/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/muthuvel-24/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2404-most-frequent-even-element](https://github.com/muthuvel-24/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/muthuvel-24/Leetcode/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/muthuvel-24/Leetcode/tree/master/0605-can-place-flowers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/muthuvel-24/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/muthuvel-24/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Enumeration
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/muthuvel-24/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muthuvel-24/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/muthuvel-24/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/muthuvel-24/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/muthuvel-24/Leetcode/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/muthuvel-24/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2733-neither-minimum-nor-maximum](https://github.com/muthuvel-24/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
