@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/muthuvel-24/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/muthuvel-24/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muthuvel-24/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muthuvel-24/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/muthuvel-24/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/muthuvel-24/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/muthuvel-24/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/muthuvel-24/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2843-count-symmetric-integers](https://github.com/muthuvel-24/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3227-vowels-game-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muthuvel-24/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3360-stone-removal-game](https://github.com/muthuvel-24/Leetcode/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/muthuvel-24/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3492-maximum-containers-on-a-ship](https://github.com/muthuvel-24/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3174-clear-digits](https://github.com/muthuvel-24/Leetcode/tree/master/3174-clear-digits) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muthuvel-24/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/muthuvel-24/Leetcode/tree/master/3271-hash-divided-string) |
 | [3360-stone-removal-game](https://github.com/muthuvel-24/Leetcode/tree/master/3360-stone-removal-game) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/muthuvel-24/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0183-customers-who-never-order](https://github.com/muthuvel-24/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/muthuvel-24/Leetcode/tree/master/0584-find-customer-referee) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muthuvel-24/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
