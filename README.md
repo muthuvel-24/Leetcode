@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/muthuvel-24/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/muthuvel-24/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2169-count-operations-to-obtain-zero](https://github.com/muthuvel-24/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/muthuvel-24/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/muthuvel-24/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2843-count-symmetric-integers](https://github.com/muthuvel-24/Leetcode/tree/master/2843-count-symmetric-integers) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/muthuvel-24/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muthuvel-24/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2169-count-operations-to-obtain-zero](https://github.com/muthuvel-24/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/muthuvel-24/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2460-apply-operations-to-an-array) |
