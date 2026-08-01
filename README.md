@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/muthuvel-24/Leetcode/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/muthuvel-24/Leetcode/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/muthuvel-24/Leetcode/tree/master/0482-license-key-formatting) |
 | [0796-rotate-string](https://github.com/muthuvel-24/Leetcode/tree/master/0796-rotate-string) |
