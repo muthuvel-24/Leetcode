@@ -228,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-two-out-of-three](https://github.com/muthuvel-24/Leetcode/tree/master/2032-two-out-of-three) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/muthuvel-24/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
