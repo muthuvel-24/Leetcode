@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/muthuvel-24/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/muthuvel-24/Leetcode/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/muthuvel-24/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/muthuvel-24/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/muthuvel-24/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/muthuvel-24/Leetcode/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/muthuvel-24/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/muthuvel-24/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3941-password-strength](https://github.com/muthuvel-24/Leetcode/tree/master/3941-password-strength) |
 ## String
 |  |
