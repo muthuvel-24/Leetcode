@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/muthuvel-24/Leetcode/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/muthuvel-24/Leetcode/tree/master/3271-hash-divided-string) |
+| [3407-substring-matching-pattern](https://github.com/muthuvel-24/Leetcode/tree/master/3407-substring-matching-pattern) |
 | [3813-vowel-consonant-score](https://github.com/muthuvel-24/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/muthuvel-24/Leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3894-traffic-signal-color](https://github.com/muthuvel-24/Leetcode/tree/master/3894-traffic-signal-color) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/muthuvel-24/Leetcode/tree/master/1668-maximum-repeating-substring) |
+| [3407-substring-matching-pattern](https://github.com/muthuvel-24/Leetcode/tree/master/3407-substring-matching-pattern) |
 ## Graph Theory
 |  |
 | ------- |
