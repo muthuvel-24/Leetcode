@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/muthuvel-24/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1732-find-the-highest-altitude](https://github.com/muthuvel-24/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/muthuvel-24/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/muthuvel-24/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/muthuvel-24/Leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/muthuvel-24/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/muthuvel-24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/muthuvel-24/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/muthuvel-24/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/muthuvel-24/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/muthuvel-24/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
