@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muthuvel-24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1668-maximum-repeating-substring](https://github.com/muthuvel-24/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/muthuvel-24/Leetcode/tree/master/0344-reverse-string) |
 | [0819-most-common-word](https://github.com/muthuvel-24/Leetcode/tree/master/0819-most-common-word) |
 | [1446-consecutive-characters](https://github.com/muthuvel-24/Leetcode/tree/master/1446-consecutive-characters) |
+| [1668-maximum-repeating-substring](https://github.com/muthuvel-24/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/muthuvel-24/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2390-removing-stars-from-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3136-valid-word](https://github.com/muthuvel-24/Leetcode/tree/master/3136-valid-word) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0229-majority-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/muthuvel-24/Leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
