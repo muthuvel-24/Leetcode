@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/muthuvel-24/Leetcode/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/muthuvel-24/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2574-left-and-right-sum-differences](https://github.com/muthuvel-24/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/muthuvel-24/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2733-neither-minimum-nor-maximum](https://github.com/muthuvel-24/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muthuvel-24/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/muthuvel-24/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muthuvel-24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/muthuvel-24/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/muthuvel-24/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/muthuvel-24/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
