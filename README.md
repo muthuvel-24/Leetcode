@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/muthuvel-24/Leetcode/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/muthuvel-24/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3492-maximum-containers-on-a-ship](https://github.com/muthuvel-24/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/muthuvel-24/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/muthuvel-24/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/muthuvel-24/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/muthuvel-24/Leetcode/tree/master/3894-traffic-signal-color) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/muthuvel-24/Leetcode/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/muthuvel-24/Leetcode/tree/master/3271-hash-divided-string) |
 | [3360-stone-removal-game](https://github.com/muthuvel-24/Leetcode/tree/master/3360-stone-removal-game) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/muthuvel-24/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3813-vowel-consonant-score](https://github.com/muthuvel-24/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/muthuvel-24/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Greedy
