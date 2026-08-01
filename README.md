@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/muthuvel-24/Leetcode/tree/master/3271-hash-divided-string) |
 | [3813-vowel-consonant-score](https://github.com/muthuvel-24/Leetcode/tree/master/3813-vowel-consonant-score) |
+| [3856-trim-trailing-vowels](https://github.com/muthuvel-24/Leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3894-traffic-signal-color](https://github.com/muthuvel-24/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3941-password-strength](https://github.com/muthuvel-24/Leetcode/tree/master/3941-password-strength) |
 ## Math
