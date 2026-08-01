@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/muthuvel-24/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3227-vowels-game-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3271-hash-divided-string](https://github.com/muthuvel-24/Leetcode/tree/master/3271-hash-divided-string) |
 | [3941-password-strength](https://github.com/muthuvel-24/Leetcode/tree/master/3941-password-strength) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/muthuvel-24/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/muthuvel-24/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3271-hash-divided-string](https://github.com/muthuvel-24/Leetcode/tree/master/3271-hash-divided-string) |
 ## Greedy
 |  |
 | ------- |
