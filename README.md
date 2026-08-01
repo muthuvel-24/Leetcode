@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/muthuvel-24/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/muthuvel-24/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/muthuvel-24/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2278-percentage-of-letter-in-string](https://github.com/muthuvel-24/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2788-split-strings-by-separator](https://github.com/muthuvel-24/Leetcode/tree/master/2788-split-strings-by-separator) |
