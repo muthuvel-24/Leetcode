@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/muthuvel-24/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muthuvel-24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/muthuvel-24/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/muthuvel-24/Leetcode/tree/master/0392-is-subsequence) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/muthuvel-24/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/muthuvel-24/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/muthuvel-24/Leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/muthuvel-24/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0234-palindrome-linked-list](https://github.com/muthuvel-24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/muthuvel-24/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/muthuvel-24/Leetcode/tree/master/0392-is-subsequence) |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/muthuvel-24/Leetcode/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/muthuvel-24/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/muthuvel-24/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
