@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/muthuvel-24/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/muthuvel-24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/muthuvel-24/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/muthuvel-24/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muthuvel-24/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0148-sort-list](https://github.com/muthuvel-24/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/muthuvel-24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/muthuvel-24/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/muthuvel-24/Leetcode/tree/master/0392-is-subsequence) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/muthuvel-24/Leetcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/muthuvel-24/Leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/muthuvel-24/Leetcode/tree/master/0414-third-maximum-number) |
@@ -405,4 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/muthuvel-24/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/muthuvel-24/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/muthuvel-24/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
