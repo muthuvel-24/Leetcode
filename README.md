@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/muthuvel-24/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/muthuvel-24/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/muthuvel-24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/muthuvel-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/muthuvel-24/Leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/muthuvel-24/Leetcode/tree/master/0414-third-maximum-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muthuvel-24/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/muthuvel-24/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/muthuvel-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/muthuvel-24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/muthuvel-24/Leetcode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/muthuvel-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/muthuvel-24/Leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/muthuvel-24/Leetcode/tree/master/0414-third-maximum-number) |
