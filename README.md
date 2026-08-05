@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muthuvel-24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/muthuvel-24/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/muthuvel-24/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/muthuvel-24/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/muthuvel-24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/muthuvel-24/Leetcode/tree/master/0274-h-index) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/muthuvel-24/Leetcode/tree/master/0204-count-primes) |
 | [0441-arranging-coins](https://github.com/muthuvel-24/Leetcode/tree/master/0441-arranging-coins) |
 | [0989-add-to-array-form-of-integer](https://github.com/muthuvel-24/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muthuvel-24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/muthuvel-24/Leetcode/tree/master/0204-count-primes) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/muthuvel-24/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muthuvel-24/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/muthuvel-24/Leetcode/tree/master/2843-count-symmetric-integers) |
@@ -379,4 +382,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muthuvel-24/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/muthuvel-24/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/muthuvel-24/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/muthuvel-24/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/muthuvel-24/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
