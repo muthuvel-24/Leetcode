@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/muthuvel-24/Leetcode/tree/master/3271-hash-divided-string) |
 | [3407-substring-matching-pattern](https://github.com/muthuvel-24/Leetcode/tree/master/3407-substring-matching-pattern) |
+| [3612-process-string-with-special-operations-i](https://github.com/muthuvel-24/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3813-vowel-consonant-score](https://github.com/muthuvel-24/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/muthuvel-24/Leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3894-traffic-signal-color](https://github.com/muthuvel-24/Leetcode/tree/master/3894-traffic-signal-color) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muthuvel-24/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/muthuvel-24/Leetcode/tree/master/3271-hash-divided-string) |
 | [3360-stone-removal-game](https://github.com/muthuvel-24/Leetcode/tree/master/3360-stone-removal-game) |
+| [3612-process-string-with-special-operations-i](https://github.com/muthuvel-24/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/muthuvel-24/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3813-vowel-consonant-score](https://github.com/muthuvel-24/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/muthuvel-24/Leetcode/tree/master/3894-traffic-signal-color) |
