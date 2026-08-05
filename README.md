@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/muthuvel-24/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/muthuvel-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/muthuvel-24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/muthuvel-24/Leetcode/tree/master/0819-most-common-word) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/muthuvel-24/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/muthuvel-24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/muthuvel-24/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/muthuvel-24/Leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/muthuvel-24/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/muthuvel-24/Leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/muthuvel-24/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muthuvel-24/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
