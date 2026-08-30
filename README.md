@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/muthuvel-24/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/muthuvel-24/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/muthuvel-24/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/muthuvel-24/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/muthuvel-24/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/muthuvel-24/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/muthuvel-24/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/muthuvel-24/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Enumeration
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/muthuvel-24/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/muthuvel-24/Leetcode/tree/master/2540-minimum-common-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muthuvel-24/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/muthuvel-24/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/muthuvel-24/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/muthuvel-24/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/muthuvel-24/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String Matching
 |  |
 | ------- |
