@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/muthuvel-24/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/muthuvel-24/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/muthuvel-24/Leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/muthuvel-24/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/muthuvel-24/Leetcode/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/muthuvel-24/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/muthuvel-24/Leetcode/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/muthuvel-24/Leetcode/tree/master/0796-rotate-string) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/muthuvel-24/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/muthuvel-24/Leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/muthuvel-24/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muthuvel-24/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/muthuvel-24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/muthuvel-24/Leetcode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/muthuvel-24/Leetcode/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/muthuvel-24/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1200-minimum-absolute-difference](https://github.com/muthuvel-24/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/muthuvel-24/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1833-maximum-ice-cream-bars](https://github.com/muthuvel-24/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/muthuvel-24/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/muthuvel-24/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Union-Find
 |  |
@@ -460,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/muthuvel-24/Leetcode/tree/master/0070-climbing-stairs) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/muthuvel-24/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
