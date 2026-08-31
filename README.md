@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/muthuvel-24/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/muthuvel-24/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/muthuvel-24/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muthuvel-24/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/muthuvel-24/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/muthuvel-24/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/muthuvel-24/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/muthuvel-24/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/muthuvel-24/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/muthuvel-24/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/muthuvel-24/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/muthuvel-24/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/muthuvel-24/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/muthuvel-24/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/muthuvel-24/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/muthuvel-24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/muthuvel-24/Leetcode/tree/master/3174-clear-digits) |
 ## Sorting
